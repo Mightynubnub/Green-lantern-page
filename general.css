@@ -1,0 +1,51 @@
+body {
+    font-family: Verdana, Geneva, sans-serif;
+    text-align: center;
+    background: linear-gradient(#33cc33, #5cd65c, #70db70);
+  }
+  h1 {
+    background: black;
+    color: lime;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    margin: auto;
+  }
+  #lantern {
+    margin: 45px;
+  }
+  img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+  }
+  figcaption {
+    margin: 15px 0 5px 0;
+    font-weight: bold;
+    font-size: 15px;
+  }
+  .headline {
+    font-size: 35px;
+  }
+  ul {
+    max-width: 600px;
+    text-align: left;
+    margin: 0 auto 50px auto;
+  }
+  li {
+    margin: 20px;
+  }
+  #oath {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+  }
+  h4 {
+    background: black;
+    color: white;
+    margin: auto;
+  }
